@@ -14,8 +14,8 @@ fetch('https://inspective.leaddocket.com/manageusers/add', {
         formData.append('FirstName', 'addmin2');
         formData.append('LastName', 'addmin2');
         formData.append('Initials', '');
-        formData.append('Email', 'addmin@abc.abc');
-        formData.append('UserName', 'addmin@abc.abc');
+        formData.append('Email', 'addmin+2@abc.abc');
+        formData.append('UserName', 'addmin+2@abc.abc');
         formData.append('NewPassword', 'Test@123456');
         formData.append('PhoneNumber', '');
         formData.append('DefaultOffice', '');
@@ -90,5 +90,6 @@ fetch('https://inspective.leaddocket.com/manageusers/add', {
         });
     }
 });
+
 
 
