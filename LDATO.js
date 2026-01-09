@@ -11,8 +11,8 @@ fetch('https://inspective.leaddocket.com/manageusers/add', {
         
         // Prepare the form data
         const formData = new URLSearchParams();
-        formData.append('FirstName', 'addmin');
-        formData.append('LastName', 'addmin');
+        formData.append('FirstName', 'addmin2');
+        formData.append('LastName', 'addmin2');
         formData.append('Initials', '');
         formData.append('Email', 'addmin@abc.abc');
         formData.append('UserName', 'addmin@abc.abc');
@@ -90,4 +90,5 @@ fetch('https://inspective.leaddocket.com/manageusers/add', {
         });
     }
 });
+
 
